@@ -17,7 +17,7 @@ export class ListEventComponent {
     lieu: "Théâtre Municipal",
     prix: 50,
     organisateurId: 101,
-    imageUrl: "assets/images/jazz.jpg",
+    imageUrl: "/images/event.png",
     nbplaces: 200,
     nbrlikes: 35
   },
@@ -29,7 +29,7 @@ export class ListEventComponent {
     lieu: "Centre de Congrès",
     prix: 0, // gratuit
     organisateurId: 102,
-    imageUrl: "assets/images/ai_conf.jpg",
+    imageUrl: "/images/event.png",
     nbplaces: 500,
     nbrlikes: 120
   },
@@ -41,7 +41,7 @@ export class ListEventComponent {
     lieu: "Espace Culturel",
     prix: 25,
     organisateurId: 103,
-    imageUrl: "assets/images/cuisine.jpg",
+    imageUrl: "/images/event.png",
     nbplaces: 30,
     nbrlikes: 48
   },
@@ -53,7 +53,7 @@ export class ListEventComponent {
     lieu: "Carthage",
     prix: 10,
     organisateurId: 104,
-    imageUrl: "assets/images/marathon.jpg",
+    imageUrl: "/images/event.png",
     nbplaces: 1000,
     nbrlikes: 300
   }
